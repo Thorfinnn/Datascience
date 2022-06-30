@@ -111,9 +111,9 @@ sv.fit(x_train,y_train)
 y_pred4=sv.predict(x_test)
 print(mean_squared_error(y_test,y_pred4))
 #
-# 11.945754994606157
-# 8.750714285714286
-# 7.245825607142856
-# 6.737593926811454
-# 47.9731716301474
+# linear regression 11.945754994606157
+# decission tree 8.750714285714286
+# random forest 7.245825607142856
+# gradient boosting 6.737593926811454
+# svm 47.9731716301474
 
