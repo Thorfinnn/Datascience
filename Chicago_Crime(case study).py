@@ -1,3 +1,8 @@
+'''
+In this case study we are trying to predict weather culprit
+Will be arrested or not given case file consisting of many features
+Based on historical data
+'''
 import math
 
 import numpy as np
